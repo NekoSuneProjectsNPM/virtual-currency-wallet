@@ -6,12 +6,12 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NekoSuneProjects/virtual-currency-wallet.git"
+    "url": "https://github.com/NekoSuneProjectsNPM/virtual-currency-wallet.git"
   },
   "bugs": {
-    "url": "https://github.com/NekoSuneProjects/virtual-currency-wallet/issues"
+    "url": "https://github.com/NekoSuneProjectsNPM/virtual-currency-wallet/issues"
   },
-  "funding": "https://github.com/NekoSuneProjects/virtual-currency-wallet?sponsor",
+  "funding": "https://github.com/NekoSuneProjectsNPM/virtual-currency-wallet?sponsor",
   "keywords": [
     "crypto",
     "wallet",
